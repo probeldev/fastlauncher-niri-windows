@@ -15,7 +15,7 @@
       fastlauncher-niri-windows-package = pkgs.callPackage ./package.nix {};
     in {
       packages = rec {
-        fastlauncher-niri-windows = fastlauncher-package;
+        fastlauncher-niri-windows = fastlauncher-niri-windows-package;
         default = fastlauncher-niri-windows;
       };
 
