@@ -1,0 +1,1 @@
+# fastlauncher-niri-windows
