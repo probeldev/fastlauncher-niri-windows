@@ -4,5 +4,5 @@
 buildGoModule {
   name = "fastlauncher-niri-windows";
   src = ./.;
-  vendorHash = "sha256-a39ZeJcyt+1iqnKbhcBiLScP5InAJa0jsYB0ZXlpCVM=";
+  vendorHash = "sha256-Mhn5XlxINUxA81HUr6cJUeibRzp/O/vgjY3MR4FOFFo=";
 }
